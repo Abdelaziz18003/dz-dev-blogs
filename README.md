@@ -5,6 +5,7 @@ A list of algerian developers' blogs.
 | Owner     | Topics      | Link |
 |-----------|------------|-------------|
 |Abdelaziz Mokhnache| Web Dev, Javascript, Node.js| https://mokhnache.com/blog/|
+|Houari ZEGAI| Technology, Programming, Security, Books| https://coderprofessional.blogspot.com|
 
 ## Contribution
 
